@@ -1,0 +1,106 @@
+---
+object: card
+id: b8e19ebf-a1da-4af5-8948-a199a05283f6
+oracle_id: e75ba79f-4cc2-4ede-8641-559ab94e7e36
+multiverse_ids: []
+tcgplayer_id: 97464
+cardmarket_id: 16963
+name: Drain Life
+lang: en
+released_at: '1993-12-10'
+uri: https://api.scryfall.com/cards/b8e19ebf-a1da-4af5-8948-a199a05283f6
+scryfall_uri: https://scryfall.com/card/ced/106/drain-life?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/8/b8e19ebf-a1da-4af5-8948-a199a05283f6.jpg?1559591619
+  normal: https://cards.scryfall.io/normal/front/b/8/b8e19ebf-a1da-4af5-8948-a199a05283f6.jpg?1559591619
+  large: https://cards.scryfall.io/large/front/b/8/b8e19ebf-a1da-4af5-8948-a199a05283f6.jpg?1559591619
+  png: https://cards.scryfall.io/png/front/b/8/b8e19ebf-a1da-4af5-8948-a199a05283f6.png?1559591619
+  art_crop: https://cards.scryfall.io/art_crop/front/b/8/b8e19ebf-a1da-4af5-8948-a199a05283f6.jpg?1559591619
+  border_crop: https://cards.scryfall.io/border_crop/front/b/8/b8e19ebf-a1da-4af5-8948-a199a05283f6.jpg?1559591619
+mana_cost: "{X}{1}{B}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: |-
+  Spend only black mana on X.
+  Drain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fdde66b9-027a-43e8-9aa4-5d338f379ade
+set: ced
+set_name: Collectors' Edition
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/fdde66b9-027a-43e8-9aa4-5d338f379ade
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aced&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ced?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b8e19ebf-a1da-4af5-8948-a199a05283f6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae75ba79f-4cc2-4ede-8641-559ab94e7e36&unique=prints
+collector_number: '106'
+digital: false
+rarity: common
+card_back_id: 98784b63-d263-4abc-aabb-a092e6ecc788
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: 7dffecb9-a7a1-4205-8541-cfc0daa9a88b
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 11695
+penny_rank: 2560
+prices:
+  usd: '3.12'
+  usd_foil: 
+  usd_etched: 
+  eur: '6.90'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Drain+Life&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Drain+Life&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Drain+Life
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/97464?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drain+Life&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drain+Life&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

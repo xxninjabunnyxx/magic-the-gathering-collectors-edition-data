@@ -1,0 +1,107 @@
+---
+object: card
+id: 715f6b5d-3b9b-4fb8-82ce-48e97d475c5a
+oracle_id: d29078c0-1fb8-437a-81d1-bb319f646941
+multiverse_ids: []
+tcgplayer_id: 97655
+cardmarket_id: 17175
+name: Veteran Bodyguard
+lang: en
+released_at: '1993-12-10'
+uri: https://api.scryfall.com/cards/715f6b5d-3b9b-4fb8-82ce-48e97d475c5a
+scryfall_uri: https://scryfall.com/card/ced/42/veteran-bodyguard?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/1/715f6b5d-3b9b-4fb8-82ce-48e97d475c5a.jpg?1559591585
+  normal: https://cards.scryfall.io/normal/front/7/1/715f6b5d-3b9b-4fb8-82ce-48e97d475c5a.jpg?1559591585
+  large: https://cards.scryfall.io/large/front/7/1/715f6b5d-3b9b-4fb8-82ce-48e97d475c5a.jpg?1559591585
+  png: https://cards.scryfall.io/png/front/7/1/715f6b5d-3b9b-4fb8-82ce-48e97d475c5a.png?1559591585
+  art_crop: https://cards.scryfall.io/art_crop/front/7/1/715f6b5d-3b9b-4fb8-82ce-48e97d475c5a.jpg?1559591585
+  border_crop: https://cards.scryfall.io/border_crop/front/7/1/715f6b5d-3b9b-4fb8-82ce-48e97d475c5a.jpg?1559591585
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Creature — Human
+oracle_text: As long as Veteran Bodyguard is untapped, all damage that would be dealt
+  to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+power: '2'
+toughness: '5'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fdde66b9-027a-43e8-9aa4-5d338f379ade
+set: ced
+set_name: Collectors' Edition
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/fdde66b9-027a-43e8-9aa4-5d338f379ade
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aced&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ced?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/715f6b5d-3b9b-4fb8-82ce-48e97d475c5a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad29078c0-1fb8-437a-81d1-bb319f646941&unique=prints
+collector_number: '42'
+digital: false
+rarity: rare
+flavor_text: Good bodyguards are hard to find, mainly because they don't live long.
+card_back_id: 98784b63-d263-4abc-aabb-a092e6ecc788
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: 6e32d8d4-37f7-4cad-8b6c-368dc0a9bfb5
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 20785
+prices:
+  usd: '3.77'
+  usd_foil: 
+  usd_etched: 
+  eur: '5.98'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Veteran+Bodyguard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Veteran+Bodyguard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Veteran+Bodyguard
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/97655?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Veteran+Bodyguard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Veteran+Bodyguard&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

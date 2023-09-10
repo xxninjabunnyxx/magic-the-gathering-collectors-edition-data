@@ -1,0 +1,107 @@
+---
+object: card
+id: 2a8d1b78-9b5d-4cd0-a334-40bd635514e0
+oracle_id: de26b0c6-dfb7-45a8-9d7f-f8d45522d675
+multiverse_ids: []
+tcgplayer_id: 97517
+cardmarket_id: 17009
+name: Invisibility
+lang: en
+released_at: '1993-12-10'
+uri: https://api.scryfall.com/cards/2a8d1b78-9b5d-4cd0-a334-40bd635514e0
+scryfall_uri: https://scryfall.com/card/ced/60/invisibility?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/a/2a8d1b78-9b5d-4cd0-a334-40bd635514e0.jpg?1559591907
+  normal: https://cards.scryfall.io/normal/front/2/a/2a8d1b78-9b5d-4cd0-a334-40bd635514e0.jpg?1559591907
+  large: https://cards.scryfall.io/large/front/2/a/2a8d1b78-9b5d-4cd0-a334-40bd635514e0.jpg?1559591907
+  png: https://cards.scryfall.io/png/front/2/a/2a8d1b78-9b5d-4cd0-a334-40bd635514e0.png?1559591907
+  art_crop: https://cards.scryfall.io/art_crop/front/2/a/2a8d1b78-9b5d-4cd0-a334-40bd635514e0.jpg?1559591907
+  border_crop: https://cards.scryfall.io/border_crop/front/2/a/2a8d1b78-9b5d-4cd0-a334-40bd635514e0.jpg?1559591907
+mana_cost: "{U}{U}"
+cmc: 2.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  Enchanted creature can't be blocked except by Walls.
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fdde66b9-027a-43e8-9aa4-5d338f379ade
+set: ced
+set_name: Collectors' Edition
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/fdde66b9-027a-43e8-9aa4-5d338f379ade
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aced&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ced?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2a8d1b78-9b5d-4cd0-a334-40bd635514e0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ade26b0c6-dfb7-45a8-9d7f-f8d45522d675&unique=prints
+collector_number: '60'
+digital: false
+rarity: common
+card_back_id: 98784b63-d263-4abc-aabb-a092e6ecc788
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: b34fc12b-f155-4349-bf2a-89806f33d2f9
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 11122
+penny_rank: 6648
+prices:
+  usd: '0.99'
+  usd_foil: 
+  usd_etched: 
+  eur: '3.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Invisibility&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Invisibility&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Invisibility
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/97517?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Invisibility&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Invisibility&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
